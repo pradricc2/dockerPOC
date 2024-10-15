@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/pradricc2/gestioneSpese
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/pradricc2/family-expenses-tracker
