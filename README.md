@@ -1,7 +1,7 @@
 # Gestione Spese POC
 POC per gestione applicazioni containerizzate costituito da:
 - backend in Jakarta EE
-- fronent in Angular
+- frontend in Angular
 - DB postgres
 
 # Lista comandi utilizzati per generare la POC
